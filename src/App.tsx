@@ -22,21 +22,6 @@ const ARTWORKS = [
     id: "a2",
     no: 2,
     title: "현대 민화",
-    artist: "김태희 작가",
-    year: "",
-    image:
-     "/백색꽃.png",
-    caption: "",
-    description:
-      "",
-    curator:
-      "",
-    question: "",
-  },
-  {
-    id: "a3",
-    no: 3,
-    title: "현대 민화",
     artist: "김태희작가",
     year: "2025",
     image:
@@ -49,8 +34,8 @@ const ARTWORKS = [
     question: "",
   },
   {
-    id: "a4",
-    no: 4,
+    id: "a3",
+    no: 3,
     title: "현대 민화",
     artist: "김태희 작가",
     year: "2025",
@@ -64,8 +49,8 @@ const ARTWORKS = [
     question: "",
   },
   {
-    id: "a5",
-    no: 5,
+    id: "a4",
+    no: 4,
     title: "현대 민화",
     artist: "김태희 작가",
     year: "2025",
